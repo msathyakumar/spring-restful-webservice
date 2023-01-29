@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sathya.project</groupId>
-	<artifactId>sprint-restful-webservices</artifactId>
+	<artifactId>spring-restful-webservices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sprint-restful-webservices</name>
+	<name>spring-restful-webservices</name>
 	<description>Spring restful services practice</description>
 	<properties>
 		<java.version>16</java.version>
